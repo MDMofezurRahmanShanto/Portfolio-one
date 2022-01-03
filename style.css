@@ -36,3 +36,15 @@ section{
     padding-right: 350px;
     height: 60%;
 }
+.divt{
+    display: flex;
+    width: 50%;
+}
+#sins {
+    display: flex;
+    margin-bottom: 150px;
+}
+.shadow{
+    border-left: blue solid 10px;
+    box-shadow: 10px 10px 40px orange
+}
