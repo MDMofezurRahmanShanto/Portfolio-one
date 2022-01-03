@@ -10,7 +10,7 @@ h1{
 }
 section{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 50px;
 }
 .half-width{
     width: 50%;
@@ -31,10 +31,8 @@ section{
     border-radius: 5px;
     font-weight: 400;
 }
-.Dreams{
-
-}
 .sec img{
     width: 50%;
     padding-right: 350px;
+    height: 60%;
 }
