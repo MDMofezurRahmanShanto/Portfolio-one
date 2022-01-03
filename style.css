@@ -7,3 +7,16 @@ h1{
 .name {
     color: rgb(230, 51, 51);
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 90%;
+    padding-left: 400px;
+}
+.half-width img{
+    height: 60%;
+}
